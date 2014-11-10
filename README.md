@@ -1,9 +1,4 @@
-BryceYnceraPersonalProject
-==========================
-
 Bryce Yncera's Personal Project
-========
-repo for personal project
 ========
 
 
@@ -17,7 +12,6 @@ Project Members
 =============
 
 Bryce Yncera - Byncera
-
 
 TO-DO: (backlog)
 ========

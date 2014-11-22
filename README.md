@@ -42,7 +42,9 @@ the fonts of the whole site. How the pages are laid out, how the menu is laid ou
 page breakdown. I found that in order to show that this is a website for a printing company I would use Courier New font, because 
 it is something that most company use in the printing industry. The below image shows just how many options this new Theme gives
 for CSS customization. 
+
 ![Picture12](Picture12.PNG)
+
 Through this personal project I was able to show that WordPress has very powerful tools that allow you to make a great website. One
 of those tools is called Vantage and it allows you to go beyond that of a normal theme and give you the ability to drastically change
 the way your website looks without hours of coding. 

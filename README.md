@@ -13,9 +13,9 @@ Contact Form
 ============================
 Contact Forms are an essential part of any companies website. The great thing about the Vantage theme is that it allows you to create contact forms with in the page, without 
 having to download and maintain other plugins as shown below.
-![Picture4](Picture4.png)
-![Picture5](Picture5.png)
-![Picture6](Picture6.png)
+![Picture4](Picture4.PNG)
+![Picture5](Picture5.PNG)
+![Picture6](Picture6.PNG)
 
 Menu Structure
 ============================

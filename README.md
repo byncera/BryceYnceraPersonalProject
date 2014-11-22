@@ -9,6 +9,8 @@ Unlike most themes that are on WordPress that are strictly for the CSS of the we
 You are able to insert contact forms, sideshows product pages and more as well as the basic CSS that other themes allow you to do without the need of adding in more plugins.
 I will now be going over how I implemented the theme and the functionality of the theme. For reference the link to my live website is listed here: http://bynceraproject.com/
 
+![Picture1](Picture1.PNG)
+
 Contact Form
 ============================
 Contact Forms are an essential part of any company's website. The great thing about the Vantage theme is that it allows you to create contact forms with in the page, without 
